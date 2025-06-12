@@ -1,0 +1,130 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 929-593-893
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 18:58:08] "OPTIONS /audit-logs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 18:58:08] "[31m[1mGET /audit-logs HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:00:16] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:00:43] "OPTIONS /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:00:44] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:01:01] "OPTIONS /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:01:01] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:01:04] "OPTIONS /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:01:04] "[31m[1mGET /medicamentos HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:01:37] "OPTIONS /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:01:37] "[31m[1mPOST /medicamentos HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:01:48] "OPTIONS /audit-logs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:01:48] "[31m[1mGET /audit-logs HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:01:51] "OPTIONS /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:01:51] "[31m[1mPOST /medicamentos HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:01:52] "[31m[1mGET /medicamentos HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:01:55] "[31m[1mPOST /medicamentos HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:02:53] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:03:00] "OPTIONS /audit-logs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:03:00] "[31m[1mGET /audit-logs HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:03:31] "[31m[1mPOST /register HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:03:40] "OPTIONS /audit-logs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:03:40] "[31m[1mGET /audit-logs HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:03:43] "OPTIONS /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:03:43] "[31m[1mGET /medicamentos HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:03:46] "OPTIONS /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:03:46] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:03:50] "OPTIONS /audit-logs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:03:50] "[31m[1mGET /audit-logs HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:03:52] "OPTIONS /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:03:52] "[31m[1mGET /medicamentos HTTP/1.1[0m" 401 -
+INFO:werkzeug: * Detected change in '/home/adil/api-rest/api rest/app_https.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 929-593-893
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:19:58] "[31m[1mPOST /register HTTP/1.1[0m" 400 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 929-593-893
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:25:47] "OPTIONS /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:25:48] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:25:52] "OPTIONS /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:25:52] "GET /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:26:10] "OPTIONS /audit-logs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:26:10] "GET /audit-logs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:26:33] "OPTIONS /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:26:33] "GET /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:26:53] "OPTIONS /medicamentos/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:26:53] "PUT /medicamentos/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:27:02] "OPTIONS /audit-logs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:27:02] "GET /audit-logs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:27:07] "OPTIONS /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:27:07] "GET /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:27:24] "OPTIONS /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:27:24] "[35m[1mPOST /medicamentos HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:27:27] "GET /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:27:38] "OPTIONS /audit-logs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:27:38] "GET /audit-logs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:28:02] "OPTIONS /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:28:02] "GET /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:28:07] "OPTIONS /medicamentos/3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:28:07] "[35m[1mDELETE /medicamentos/3 HTTP/1.1[0m" 204 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:28:12] "OPTIONS /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:28:12] "GET /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 929-593-893
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:37:16] "OPTIONS /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:37:16] "GET /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:37:20] "OPTIONS /audit-logs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:37:20] "GET /audit-logs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:42:55] "OPTIONS /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:42:55] "GET /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:47:31] "OPTIONS /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 19:47:31] "GET /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 485-033-602
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 20:03:39] "OPTIONS /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 20:03:39] "GET /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 20:04:09] "OPTIONS /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 20:04:09] "[35m[1mPOST /medicamentos HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 20:04:12] "GET /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 20:04:16] "OPTIONS /audit-logs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 20:04:16] "GET /audit-logs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 20:04:23] "OPTIONS /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 20:04:23] "GET /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 20:04:36] "OPTIONS /medicamentos/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 20:04:36] "PUT /medicamentos/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 20:04:48] "OPTIONS /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 20:04:48] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 20:04:51] "OPTIONS /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 20:04:51] "GET /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 643-508-106
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 21:57:06] "OPTIONS /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 21:57:06] "GET /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 22:16:09] "OPTIONS /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 22:16:09] "[35m[1mPOST /medicamentos HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 22:16:24] "OPTIONS /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 22:16:25] "GET /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 22:16:58] "OPTIONS /medicamentos/2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 22:16:58] "PUT /medicamentos/2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 22:17:21] "OPTIONS /medicamentos/2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 22:17:21] "[35m[1mDELETE /medicamentos/2 HTTP/1.1[0m" 204 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 22:17:25] "OPTIONS /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 22:17:25] "GET /medicamentos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 22:17:40] "OPTIONS /audit-logs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 22:17:40] "GET /audit-logs HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 22:18:10] "OPTIONS /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jun/2025 22:18:10] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
